@@ -5,8 +5,13 @@
     background-color: #111111;
     font-family: 'Segoe UI', sans-serif;
     color: white;
-    font-size: 62.5%;
+    
 }
+
+:root {
+    font-size: 62.5%; 
+}
+
 
 a{
     text-decoration: none;
